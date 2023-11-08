@@ -51,7 +51,7 @@ nav a span {
 
 
 #section1 {
-    background-image: url(Img/office1.jpg);
+    background-image: url(office1.jpg);
     background-size: cover;
     width: 100%;
     padding-bottom: 10%;
@@ -613,7 +613,7 @@ nav a span {
 }
 
 #sectionc {
-    background-image: url(Img/office2.jpg);
+    background-image: url(office2.jpg);
     background-color: rgba(0, 0, 0, 0.432);
     background-size: cover;
     height: 100vh;
