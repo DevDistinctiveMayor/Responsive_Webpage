@@ -1021,9 +1021,12 @@ button {
     font-size: 20px;
   }
 
-  #section1a h2 {
-    font-size: 40px;
+ 
+    #section1a h2 {
+      font-size: 40px;
+      width: 105%;
   }
+  
 
   #section1a span {
     font-size: 22px;
@@ -2323,12 +2326,12 @@ button {
     position: absolute;
     padding: 10 30px;
   }
-
   #section1a h2 {
     font-size: 50px;
-    width: 90%;
+    width: 105%;
     color: aliceblue;
-  }
+}
+
 
   #section1a span {
     font-size: 30px;
@@ -2431,10 +2434,9 @@ button {
 
 #section1a h2 {
   font-size: 60px;
-  width: 64%;
+  width: 90%;
   color: aliceblue;
 }
-
   #section1a span {
     font-size: 50px;
   }
@@ -3440,6 +3442,7 @@ button {
 @media (max-width: 360px) {
   #section1a h2 {
     font-size: 60px;
+    width: 90%;
     width: 80%;
   }
   div#one div.logo {
@@ -3581,7 +3584,7 @@ button {
   }
   #section1a h2 {
     font-size: 60px;
-    width: 50%;
+    width: 90%;
     height: max-content;
   }
   #section1a {
