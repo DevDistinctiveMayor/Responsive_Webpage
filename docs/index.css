@@ -3578,6 +3578,11 @@ body {
       height: 72%;
       width: 288%;
     }
+    div#one div.logo {
+
+    gap: 425%;
+
+}
   
     #section8 {
       margin-top: 956%;
