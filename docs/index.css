@@ -3444,7 +3444,7 @@ body {
   @media (max-width: 360px) {
     #section1a h2 {
       font-size: 60px;
-      width: 100%;
+      width: 90%;
     }
   
     div#one div.logo {
@@ -3575,7 +3575,6 @@ body {
   @media (max-width: 321px) {
     #section1a {
       margin-top: 40%;
-      height: 72%;
       width: 288%;
     }
     div#one div.logo {
