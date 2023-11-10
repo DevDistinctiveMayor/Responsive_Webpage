@@ -3446,7 +3446,7 @@ button {
     width: 80%;
 }
   div#one div.logo {
-    gap: 700%;
+    gap: 600%;
   }
   #section8 {
     width: 287%;
@@ -3500,6 +3500,9 @@ button {
 }
 
 @media (max-width: 352px) {
+  div#one div.logo {
+    gap: 590%;
+}
   footer {
     width: 440%;
     margin-top: 1820%;
@@ -3511,6 +3514,9 @@ button {
 }
 
 @media (max-width: 342px) {
+  div#one div.logo {
+    gap: 575%;
+}
   #section7 {
     margin-top: 78%;
   }
@@ -3535,6 +3541,9 @@ button {
 
 
 @media (max-width: 324px) {
+  div#one div.logo {
+    gap: 555%;
+}
   div#one div.logo {
     gap: 600%;
   }
@@ -3572,17 +3581,11 @@ button {
 
 @media (max-width: 321px) {
     div#one div.logo {
-        display: flex;
-        flex-direction: row;
         gap: 525%;
-        position: absolute;
-        top: 25%;
-        left: 10%;
-        font-size: 40px;
     }
   #section1a {
     margin-top: 40%;
-    width: 288%;
+    width: 300%;
   }
 
   #section8 {
@@ -3612,8 +3615,11 @@ button {
 }
 
 @media (max-width: 280px) {
+  div#one div.logo {
+    gap: 425%;
+}
   #section1a {
-    height: 70%;
+    /* height: 70%; */
     width: 331%;
   }
 
