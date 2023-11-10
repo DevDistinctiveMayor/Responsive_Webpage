@@ -2322,7 +2322,6 @@ button {
     margin: 25% 10%;
     position: absolute;
     padding: 10 30px;
-    height: 50%;
   }
 
   #section1a h2 {
@@ -2430,10 +2429,10 @@ button {
     width: 170%;
 }
 
-  #section1a h2 {
-    font-size: 60px;
-    width: 91%;
-    color: aliceblue;
+#section1a h2 {
+  font-size: 60px;
+  width: 64%;
+  color: aliceblue;
 }
 
   #section1a span {
@@ -3125,7 +3124,6 @@ button {
 @media (max-width: 470px) {
   #section1a {
     margin-top: 40%;
-    height: 60%;
     width: 190%;
   }
 
@@ -3165,7 +3163,6 @@ button {
 @media (max-width: 459px) {
   #section1a {
     margin-top: 40%;
-    height: 60%;
     width: 240%;
   }
   button {
