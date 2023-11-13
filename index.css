@@ -2826,7 +2826,7 @@ button {
   }
 
   .foot5 {
-    margin-top: -131%;
+    margin-top: -128%;
   }
 
   .foot5 ul li {
@@ -2852,7 +2852,7 @@ button {
   }
 
   button {
-    width: 166%;
+    width: 164%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -2890,6 +2890,21 @@ button {
     margin-left: -48%;
 }
 }
+
+@media (max-width: 520px){
+  button {
+      width: 172%;
+      height: 34%;
+      padding-top: 6%;
+      padding-bottom: 4%;
+      font-size: 77px;
+      text-align: center;
+      margin-left: -48%;
+  }
+  .foot5 {
+    margin-top: -136%;
+}    
+  }
 
 
 @media (max-width: 516px) {
@@ -2931,7 +2946,7 @@ button {
     margin-top: -137%;
   }
   button {
-    width: 175%;
+    width: 177%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -2940,6 +2955,8 @@ button {
     margin-left: -48%;
   }
 }
+
+
 
 @media (max-width: 500px) {
   div#one div.logo {
@@ -3023,7 +3040,7 @@ button {
     width: 120%;
   }
   button {
-    width: 176%;
+    width: 177%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -3036,7 +3053,7 @@ button {
 }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 484px) {
   #section1 {
     width: 420%;
   }
@@ -3133,7 +3150,7 @@ button {
   }
 
   button {
-      width: 138%;
+    width: 136%;
       height: 34%;
       padding-top: 6%;
       padding-bottom: 4%;
@@ -3143,7 +3160,7 @@ button {
   }
 }
 
-@media (max-width: 470px) {
+@media (max-width: 475px) {
   #section1a {
     margin-top: 40%;
     width: 190%;
@@ -3180,6 +3197,17 @@ button {
     margin-left: 71%;
     margin-top: 762%;
   }
+  button {
+    width: 139%;
+    height: 34%;
+    padding-top: 6%;
+    padding-bottom: 4%;
+    font-size: 77px;
+    text-align: center;
+    margin-left: -48%;
+}
+
+
 }
 
 @media (max-width: 459px) {
@@ -3188,7 +3216,7 @@ button {
     width: 240%;
   }
   button {
-    width: 145%;
+    width: 143%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -3200,9 +3228,23 @@ button {
   .section7 {
     height: 135%;
   }
+  .foot5 {
+    margin-top: -117%;
+}
 }
 
-@media (max-width: 431px) {
+@media (max-width: 459px){
+button {
+    width: 147%;
+    height: 34%;
+    padding-top: 6%;
+    padding-bottom: 4%;
+    font-size: 77px;
+    text-align: center;
+    margin-left: -48%;
+}}
+
+@media (max-width: 436px) {
   .last {
     margin-top: 150%;
   }
@@ -3217,11 +3259,20 @@ button {
   .foot5 {
     margin-top: -123%;
   }
+  button {
+    width: 150%;
+    height: 34%;
+    padding-top: 6%;
+    padding-bottom: 4%;
+    font-size: 77px;
+    text-align: center;
+    margin-left: -48%;
+}
 }
 
-@media (max-width: 421px) {
+@media (max-width: 424px) {
 button {
-  width: 157%;
+  width: 156%;
   margin-left: -49%;
 }
 }
