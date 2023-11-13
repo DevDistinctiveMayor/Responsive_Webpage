@@ -2881,17 +2881,34 @@ button {
     margin-top: 590%;
   }
   button {
-    width: 174%;
+    width: 167%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
     font-size: 77px;
     text-align: center;
     margin-left: -48%;
-  }
+}
 }
 
-@media (max-width: 508px) {
+
+@media (max-width: 516px) {
+button {
+  width: 173%;
+  height: 34%;
+  padding-top: 6%;
+  padding-bottom: 4%;
+  font-size: 77px;
+  text-align: center;
+  margin-left: -48%;
+}
+.foot5 {
+  margin-top: -137%;
+}
+}
+
+
+@media (max-width: 510px) {
   .foot3 ul {
     margin-left: 5px;
     line-height: 40px;
@@ -2914,7 +2931,7 @@ button {
     margin-top: -137%;
   }
   button {
-    width: 178%;
+    width: 175%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -2981,7 +2998,7 @@ button {
     padding: 7.9%;
   }
   button {
-    width: 173%;
+    width: 175%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -2991,7 +3008,7 @@ button {
   }
 }
 
-@media (max-width: 490px) {
+@media (max-width: 491px) {
   .last {
     margin-top: 110%;
   }
@@ -3006,7 +3023,7 @@ button {
     width: 120%;
   }
   button {
-    width: 178%;
+    width: 176%;
     height: 34%;
     padding-top: 6%;
     padding-bottom: 4%;
@@ -3014,6 +3031,9 @@ button {
     text-align: center;
     margin-left: -48%;
   }
+  .foot5 {
+    margin-top: -144%;
+}
 }
 
 @media (max-width: 480px) {
@@ -3113,13 +3133,13 @@ button {
   }
 
   button {
-    width: 140%;
-    height: 34%;
-    padding-top: 6%;
-    padding-bottom: 4%;
-    font-size: 77px;
-    text-align: center;
-    margin-left: -48%;
+      width: 138%;
+      height: 34%;
+      padding-top: 6%;
+      padding-bottom: 4%;
+      font-size: 77px;
+      text-align: center;
+      margin-left: -48%;
   }
 }
 
@@ -3199,6 +3219,12 @@ button {
   }
 }
 
+@media (max-width: 421px) {
+button {
+  width: 157%;
+  margin-left: -49%;
+}
+}
 @media (max-width: 414px) {
   .foot5 {
     margin-top: -128%;
