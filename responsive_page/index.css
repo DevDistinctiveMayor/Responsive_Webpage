@@ -2342,7 +2342,7 @@ button {
         position: absolute;
         top: 0%;
         right: -100%;
-        transition: 0.3s;
+        transition: 0.5s;
         visibility: visible;
     }
 
